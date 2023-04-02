@@ -1,7 +1,7 @@
 
 function clickIE4(){
 if (event.button==2){
-//alert(message);
+alert("Success!");
 return false;
 }
 }
